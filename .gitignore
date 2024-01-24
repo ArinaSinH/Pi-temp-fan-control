@@ -1,0 +1,7 @@
+# ignorame el config de vscode
+.vscode
+
+# ignorar compilados
+*.out
+# y la carpeta que los contiene
+.binary
